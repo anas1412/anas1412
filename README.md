@@ -19,7 +19,7 @@
 <a href="https://www.facebook.com/twentyfacefiend"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/anascoffeereviews/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://tn.linkedin.com/in/anas-bassoumi-94b36918b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:anasbassoumi@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on [Projet mobile PIDev](https://github.com/Bouadila/PIDev-mobile).
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/twentyfacefiend) or [Gmail](mailto:anasbassoumi@gmail.com) 
+- 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/twentyfacefiend) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
 - 🧗 I try to: Go beyond and push the bounds.
 - ⚡ Fun fact: Invite me to new coffee shops.
 
