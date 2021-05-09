@@ -28,14 +28,13 @@
 <img align="right" height="270px" alt="GIF" src="https://data.whicdn.com/images/316002310/original.gif" />
 
 ### I am a Student Engineer at Esprit.
-<!-- - 🔭 I’m currently working on MEAN Stack Development:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🌱 I’m currently learning Java CodeNameOne
+- 🔭 I’m currently working on [Projet mobile PIDev](https://github.com/Bouadila/PIDev-mobile).
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands : -->
+- 🧗 I try to: Go beyond and push the bounds.
+- ⚡ Fun fact: Invite me to new coffee shops.
 
 
 
