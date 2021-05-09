@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on [Projet mobile PIDev](https://github.com/Bouadila/PIDev-mobile).
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/twentyfacefiend) or [Gmail](mailto:anasbassoumi@gmail.com) 
 - 🧗 I try to: Go beyond and push the bounds.
 - ⚡ Fun fact: Invite me to new coffee shops.
 
