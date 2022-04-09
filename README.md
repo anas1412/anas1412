@@ -30,7 +30,7 @@
 ### I am a Student Engineer at Esprit.
 
 - 🧗 Co-Founder of [Cyberia Institute](https://cyberia.institute/).
-- 🌱 I’m currently learning Java CodeNameOne
+- 🌱 I’m currently learning Spring BOOT and Angular JS.
 - 🔭 I’m currently working on [Projet Consomi Tounsi](https://github.com/anas1412/ConsomiTounsiA2022).
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
