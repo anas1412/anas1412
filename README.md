@@ -31,8 +31,8 @@
 
 - 🧗 Co-Founder of [Cyberia Institute](https://cyberia.institute/).
 - 🌱 I’m currently learning Java CodeNameOne
-- 🔭 I’m currently working on [Projet mobile PIDev](https://github.com/Bouadila/PIDev-mobile).
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🔭 I’m currently working on [Projet Consomi Tounsi](https://github.com/anas1412/ConsomiTounsiA2022).
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/twentyfacefiend) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
 - ⚡ Fun fact: Invite me to new coffee shops, I'm a coffee addict.
