@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h1 align="center"><b>Welcome to the wired, I'm Anas Bassoumi 🌻</b></h1>
+  <h1 align="center"><b>Hie, I'm Anas Bassoumi 🌻</b></h1>
 </p>
 <h4 align="center"><b>I am a Cloud Student Engineer and Full Stack Developer</b></h4>
 <p>
