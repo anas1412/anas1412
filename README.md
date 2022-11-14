@@ -30,8 +30,8 @@
 ### I am a Student Engineer at Esprit.
 
 <!--- 🧗 Co-Founder of [Cyberia Institute](https://cyberia.institute/). -->
-- 🌱 I’m currently learning CI Pipelines: Jenkins, Maven, Sonar, Nexus...
-- 🔭 I’m currently working on [CI Pipeline Achat Projet](https://github.com/anas1412/timesheet_devops).
+- 🌱 I’m currently building CI/CD Pipelines using: Jenkins, Maven, Sonar, Nexus, Prometheus, Grafana, Docker, Docker-compose, K8s...
+- 🔭 I’m currently working on [Cyberia Channel](https://github.com/anas1412/cyberia-chan).
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/anas.bassoumi.52) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
