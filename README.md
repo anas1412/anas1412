@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif" />
+    <img align="center" alt="visitors" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif" width="500"/>
 </p>
 
 <p>
