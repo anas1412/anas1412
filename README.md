@@ -28,11 +28,11 @@
 
 <img align="right" height="270px" alt="GIF" src="https://data.whicdn.com/images/316002310/original.gif" />
 
-### I am a Student Engineer at Esprit.
+### I am an Engineer Student at Esprit.
 
 <!--- 🧗 Co-Founder of [Cyberia Institute](https://cyberia.institute/). -->
-- 🌱 I’m currently building CI/CD Pipelines using: Jenkins, Maven, Sonar, Nexus, Prometheus, Grafana, Docker, Docker-compose, K8s... [Project](https://github.com/anas1412/Myapp).
-- 🔭 I’m currently working on [Cyberia Channel](https://github.com/anas1412/cyberia-chan).
+- 🌱 I’m currently learning python and FastAPI.
+- 🔭 I’m currently working on my end-of-studies internship project... 
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/anas.bassoumi.52) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
