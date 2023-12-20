@@ -36,7 +36,7 @@
 - 🔭 I’m currently working on an accountant tool project... 
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/anas.bassoumi.52) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
+- 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/anasb1412/) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
 - ⚡ Fun fact: Invite me to new coffee shops, I'm a coffee addict.
 
 
