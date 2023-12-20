@@ -26,7 +26,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://data.whicdn.com/images/316002310/original.gif" />
+<img align="right" height="270px" alt="GIF" src="https://static.myfigurecollection.net/upload/pictures/2021/04/05/2680435.gif" />
 
 ### I am an IT Engineer.
 
