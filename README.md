@@ -28,12 +28,12 @@
 
 <img align="right" height="270px" alt="GIF" src="https://data.whicdn.com/images/316002310/original.gif" />
 
-### I am an Engineer Student at Esprit.
+### I am an IT Engineer.
 
 <!--- 🧗 Co-Founder of [Cyberia Institute](https://cyberia.institute/). -->
-- 🌱 I’m currently learning python and FastAPI.
-- 🔭 I’m currently working on my end-of-studies internship project... 
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🌱 I’m currently learning algorithmic trading.
+- 🔭 I’m currently working on an accountant tool project... 
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/anas.bassoumi.52) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
 - ⚡ Fun fact: Invite me to new coffee shops, I'm a coffee addict.
