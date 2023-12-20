@@ -8,7 +8,7 @@
 <h4 align="center"><b>I am a DevOps and a Cloud Engineer and also a Full Stack Developer</b></h4>
 <h4 align="center">visit my small website: https://anas1412.github.io/</h4>
 <p>
-  <h4 align="center"><b>“Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.”
+  <h4 align="center"><b>“Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.” <br> 
 ― Miyamoto Musashi, A Book of Five Rings: The Classic Guide to Strategy</b></h4>
 </p>
 
