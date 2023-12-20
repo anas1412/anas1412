@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif" width="500"/>
+    <img align="center" alt="visitors" src="https://i.imgur.com/9FUjNzR.gif" width="500"/>
 </p>
 
 <p>
