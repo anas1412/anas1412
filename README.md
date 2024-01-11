@@ -5,7 +5,7 @@
 <p>
   <h1 align="center"><b>Welcome visitor 🌻</b></h1>
 </p>
-<h4 align="center"><b>I am a DevOps and a Cloud Engineer and also a Full Stack Developer</b></h4>
+<h4 align="center"><b>I am a DevOps and Cloud Engineer and also a Full Stack Developer</b></h4>
 <h4 align="center">visit my small website: https://anas1412.github.io/</h4>
 <p>
   <h4 align="center"><b>“Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.” <br> 
