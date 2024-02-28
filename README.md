@@ -31,7 +31,6 @@
 - 🧗 Co-Founder of [Espoir Capital](https://espoircapital.com). -->
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/) & [TALL Stack](https://tallstack.dev/).
 - 🔭 I’m currently building [Torch](https://torche.espoircapital.com).
-- 🐳 Experienced in 🐋 Docker and ☸️ Kubernetes.
 - 🥅 2024 Goals: $10,000 in funding capital.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Send me on [Facebook](https://www.facebook.com/anasb1412/) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com) 
