@@ -24,9 +24,8 @@
 
 <br>
 
-<img align="right" height="220px" alt="GIF" src="https://64.media.tumblr.com/08c9e95d13b5c0805aabef5bc76c35f8/tumblr_p52u8p7Rtg1uce5h5o1_540.gif" />
-
 ### Hobbies & Interests
+<img align="right" height="220px" alt="GIF" src="https://64.media.tumblr.com/08c9e95d13b5c0805aabef5bc76c35f8/tumblr_p52u8p7Rtg1uce5h5o1_540.gif" />
 
 - 🧗 Co-Founder of [Unnamed SaaS Company](https://github.io/anas1412).
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/) & [TALL Stack](https://tallstack.dev/).
