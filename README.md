@@ -24,7 +24,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://static.myfigurecollection.net/upload/pictures/2021/04/05/2680435.gif" />
+<img align="right" height="270px" alt="GIF" src="https://64.media.tumblr.com/08c9e95d13b5c0805aabef5bc76c35f8/tumblr_p52u8p7Rtg1uce5h5o1_540.gif" />
 
 ### I am an IT Engineer.
 
