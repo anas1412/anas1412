@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://i.imgur.com/9FUjNzR.gif" width="500"/>
+    <img align="center" alt="visitors" src="https://giffiles.alphacoders.com/184/184501.gif" width="500"/>
 </p>
 
 <p>
