@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img align="center" alt="visitors" src="https://c.tenor.com/A-TvhEb_HE8AAAAC/kizumonogatari-anime.gif" width="500"/>
+  <img align="center" alt="visitors" src="https://c.tenor.com/A-TvhEb_HE8AAAAC/kizumonogatari-anime.gif" width="700"/>
 </div>
 
 
