@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/fa286073-34ab-41ea-a547-e1c09092cead)<p align="center">
-    <img align="center" alt="visitors" src="https://c.tenor.com/A-TvhEb_HE8AAAAC/kizumonogatari-anime.gif" width="500"/>
-</p>
+
+
+<img align="center" alt="visitors" src="https://c.tenor.com/A-TvhEb_HE8AAAAC/kizumonogatari-anime.gif" width="500"/>
 
 <p>
   <h1 align="center"><b>Welcome Anon 🌻</b></h1>
