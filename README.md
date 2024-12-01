@@ -1,5 +1,5 @@
-<p align="center">
-    <img align="center" alt="visitors" src="https://giffiles.alphacoders.com/184/184501.gif" width="500"/>
+![image](https://github.com/user-attachments/assets/fa286073-34ab-41ea-a547-e1c09092cead)<p align="center">
+    <img align="center" alt="visitors" src="https://c.tenor.com/A-TvhEb_HE8AAAAC/kizumonogatari-anime.gif" width="500"/>
 </p>
 
 <p>
@@ -25,7 +25,7 @@
 <br>
 
 ### Hobbies & Interests
-<img align="right" height="220px" alt="GIF" src="https://64.media.tumblr.com/08c9e95d13b5c0805aabef5bc76c35f8/tumblr_p52u8p7Rtg1uce5h5o1_540.gif" />
+<img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/c8/cc/44/c8cc44d4a558a872b28b82cc738c3d39.gif" />
 
 - 🧗 Co-Founder of [Unnamed SaaS Company](https://github.io/anas1412).
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/) & [TALL Stack](https://tallstack.dev/).
