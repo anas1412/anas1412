@@ -20,9 +20,9 @@
 </p>
 
 <br>
-<img align="right" height="180px" alt="GIF" src="https://i.pinimg.com/originals/c8/cc/44/c8cc44d4a558a872b28b82cc738c3d39.gif" />
+<img align="right" height="210px" alt="GIF" src="https://i.pinimg.com/originals/c8/cc/44/c8cc44d4a558a872b28b82cc738c3d39.gif" />
 
-<h2 Hobbies & Interests/h2>
+<h2> Hobbies & Interests</h2>
 
 - 🧗 Co-Founder of [Unnamed SaaS Company](https://github.io/anas1412).
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/) & [TALL Stack](https://tallstack.dev/).
