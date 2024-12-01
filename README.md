@@ -28,10 +28,10 @@
 
 <img align="right" height="180px" alt="GIF" src="https://i.pinimg.com/originals/c8/cc/44/c8cc44d4a558a872b28b82cc738c3d39.gif" />
 
-- 🧗 Co-Founder of [Unnamed SaaS Company](https://github.io/anas1412).
+- 🧗 Chec out [My Blog](https://github.io/anas1412).
 - 🌱 I’m currently learning [filamentphp](https://filamentphp.com/) & [TALL Stack](https://tallstack.dev/).
-- 🔭 I’m currently building [Fido](https://github.com/anas1412/Fido).
-- 🥅 2024 Goals: $10,000 in funding capital.
+- 🔭 I’m currently building [Multi-Tenant SaaS Platform with Terraform, ArgoCD, and Kubernetes](https://github.com/anas1412/multi-tenant-saas-platform).
+- 🥅 2025 Goals: $10,000 in funding capital.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Send me a message on [Facebook](https://www.facebook.com/anasb1412/) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com).
 - ⚡ Fun fact: I am a Part-time Cloud & Laravel Engineer and Full-time Funded Index Trader.
