@@ -7,7 +7,7 @@
 <h4 style="color: #b0b0b0; font-family: 'Courier New', monospace;" align="center"><b>I am a Cloud & Devops Engineer and also do Full-stack Laravel</b></h4>
 
 <h4 style="color: #fff; font-family: 'Courier New', monospace;" align="center">
-  Checkout my amazing blog: <a href="https://anas1412.github.io/" style="color: #e2e2e2; text-decoration: none; font-weight: bold;">https://anas1412.github.io/</a>
+  Checkout my amazing small website: <a href="https://anas1412.github.io/" style="color: #e2e2e2; text-decoration: none; font-weight: bold;">https://anas1412.github.io/</a>
 </h4>
 
 <h4 style="color: #fff; font-family: 'Courier New', monospace;" align="center"><b>
