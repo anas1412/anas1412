@@ -4,7 +4,7 @@
 
 <h1 style="font-family: 'Arial', sans-serif; color: #fff; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);" align="center"><b>Welcome Anon 🐦‍⬛</b></h1>
 
-<h4 style="color: #b0b0b0; font-family: 'Courier New', monospace;" align="center"><b>I am a Sofwate Engineer</b></h4>
+<h4 style="color: #b0b0b0; font-family: 'Courier New', monospace;" align="center"><b>I am a Software Engineer</b></h4>
 
 <h4 style="color: #fff; font-family: 'Courier New', monospace;" align="center">
   Checkout my amazing small website: <a href="https://anas1412.github.io/" style="color: #e2e2e2; text-decoration: none; font-weight: bold;">https://anas1412.github.io/</a>
