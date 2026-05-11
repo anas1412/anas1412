@@ -4,7 +4,7 @@
 
 <h1 style="font-family: 'Arial', sans-serif; color: #fff; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);" align="center"><b>Welcome Anon 🐦‍⬛</b></h1>
 
-<h4 style="color: #b0b0b0; font-family: 'Courier New', monospace;" align="center"><b>I am a Software Engineer</b></h4>
+<h4 style="color: #b0b0b0; font-family: 'Courier New', monospace;" align="center"><b>I am a Software Engineer and I use arch BTW</b></h4>
 
 <h4 style="color: #fff; font-family: 'Courier New', monospace;" align="center">
   Checkout my amazing small website: <a href="https://anas1412.github.io/" style="color: #e2e2e2; text-decoration: none; font-weight: bold;">https://anas1412.github.io/</a>
@@ -28,8 +28,7 @@
 
 <img align="right" height="180px" alt="GIF" src="https://i.pinimg.com/originals/c8/cc/44/c8cc44d4a558a872b28b82cc738c3d39.gif" />
 
-- 🧗 Check out [My Blog](https://github.io/anas1412).
-- 🥅 2026 Goals: $100,000 in funding capital.
+- 🥅 2026 Goals: $10,000 monthly reecurring revenue.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Send me a message on [Facebook](https://www.facebook.com/anasb1412/) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com).
 - ⚡ Fun fact: I am a Part-time Software Engineer and Full-time Gold Trader.
