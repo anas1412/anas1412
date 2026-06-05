@@ -6,41 +6,84 @@
 
 ## Hey, I'm Anas 👋
 
-Software Engineer from Tunisia. I build CLI/TUI tools in Go, run Arch Linux, and trade gold on the side.
+Full-stack Software Engineer from Tunisia. I build production systems, deploy cloud infrastructure, and ship open source tools. Currently running my own AI software practice — and trading gold on the side.
 
 > *"Taking a new step, uttering a new word, is what people fear most."*
 > — Dostoevsky, Crime and Punishment
 
 ---
 
-### 🖥️ Featured Project
+### 🚀 Featured Projects
 
-**[ytmgo](https://github.com/anas1412/ytmgo)** — Terminal YouTube Music Player written in Go
+**[ytmgo](https://github.com/anas1412/ytmgo)** — Terminal YouTube Music Player · `Go` `TUI` `CLI`
 
-Search YouTube, manage a queue, download MP3s, bookmark favorites, Discord Rich Presence — all from the keyboard inside your terminal. No browser, no Electron, no bloat.
+Search YouTube, queue tracks, download MP3s, Discord Rich Presence — all from the terminal. Pure Go, no Electron, no bloat.
 
 ```bash
 curl -fsSL https://anas1412.github.io/ytmgo/install.sh | bash
 ```
 
+**[Cyberia Space](https://github.com/anas1412)** — AI-Agentic Unified Workspace · `React` `TypeScript` `Supabase` `AI`
+
+Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, offline-first with real-time sync. Used by 50+ users.
+
+**[FIDO](https://github.com/anas1412)** — Fee Management Platform for Accountants · `Laravel` `PHP` `Docker`
+
+End-to-end financial workflow automation. Reduced reporting time by ~30%. Built from real client requirements.
+
+---
+
+### 🛠️ Stack
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Full-Stack**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI & Agents**
+
+![OpenAI](https://img.shields.io/badge/LLM_Tool--Calling-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+**Tools & OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
 ---
 
 ### About me
 
-- 🎯 **2026 Goal:** $10,000 monthly recurring revenue
-- 📈 **Part-time** Software Engineer, **full-time** Gold Trader
+- 🎯 **2026 Goal:** $10,000 MRR
+- 🏢 Running **Cyberia AI Studio** — independent software practice
+- 📈 Part-time Engineer, full-time Gold Trader
 - 🐧 I use Arch, btw
 - 💬 Ask me anything — happy to help
-
----
-
-### Stack & Tools
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
