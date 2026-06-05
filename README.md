@@ -6,30 +6,38 @@
 
 ## Hey, I'm Anas 👋
 
-Full-stack Software Engineer from Tunisia. I build production systems, deploy cloud infrastructure, and ship open source tools. Currently running my own AI software practice — and trading gold on the side.
+Full-stack Software Engineer from Tunisia. I build production systems, deploy cloud infrastructure, and ship open source tools. Founder of **[Cyberia AI Studio](https://www.cyberia.tn)** — an AI automation agency. Also trading gold on the side.
 
 > *"Taking a new step, uttering a new word, is what people fear most."*
 > — Dostoevsky, Crime and Punishment
 
 ---
 
+### 🏢 Cyberia AI Studio
+
+[![Website](https://img.shields.io/badge/cyberia.tn-000000?style=flat-square&logo=globe&logoColor=white)](https://www.cyberia.tn)
+
+We design custom AI automation systems, AI agents, and intelligent workflows that eliminate bottlenecks — so your team focuses on what drives revenue. Based in Tunisia, working globally.
+
+---
+
 ### 🚀 Featured Projects
 
-**[ytmgo](https://github.com/anas1412/ytmgo)** — Terminal YouTube Music Player · `Go` `TUI` `CLI`
+**[Cyberia Space](https://github.com/anas1412/cyberia)** — AI-Agentic Unified Workspace · [`cyberiaspace.app`](https://cyberiaspace.app) · `React` `TypeScript` `Supabase` `AI`
+
+Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, offline-first with real-time sync. Used by 50+ users.
+
+**[FIDO](https://github.com/anas1412/Fido)** — Fee Management Platform for Accountants · [`fido.tn`](https://fido.tn) · `Laravel` `PHP` `Docker`
+
+End-to-end financial workflow automation. Reduced reporting time by ~30%. Built from real client requirements.
+
+**[ytmgo](https://github.com/anas1412/ytmgo)** — Terminal YouTube Music Player · [`anas1412.github.io/ytmgo`](https://anas1412.github.io/ytmgo/) · `Go` `TUI` `CLI`
 
 Search YouTube, queue tracks, download MP3s, Discord Rich Presence — all from the terminal. Pure Go, no Electron, no bloat.
 
 ```bash
 curl -fsSL https://anas1412.github.io/ytmgo/install.sh | bash
 ```
-
-**[Cyberia Space](https://github.com/anas1412)** — AI-Agentic Unified Workspace · `React` `TypeScript` `Supabase` `AI`
-
-Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, offline-first with real-time sync. Used by 50+ users.
-
-**[FIDO](https://github.com/anas1412)** — Fee Management Platform for Accountants · `Laravel` `PHP` `Docker`
-
-End-to-end financial workflow automation. Reduced reporting time by ~30%. Built from real client requirements.
 
 ---
 
@@ -80,7 +88,7 @@ End-to-end financial workflow automation. Reduced reporting time by ~30%. Built 
 ### About me
 
 - 🎯 **2026 Goal:** $10,000 MRR
-- 🏢 Running **Cyberia AI Studio** — independent software practice
+- 🏢 Founder @ **[Cyberia AI Studio](https://www.cyberia.tn)** — AI automation agency
 - 📈 Part-time Engineer, full-time Gold Trader
 - 🐧 I use Arch, btw
 - 💬 Ask me anything — happy to help
