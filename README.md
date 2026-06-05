@@ -1,34 +1,53 @@
-<div style="text-align: center; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
-  <img align="center" alt="visitors" src="https://c.tenor.com/A-TvhEb_HE8AAAAC/kizumonogatari-anime.gif" width="1200"/>
+<div align="center">
+  <img src="https://c.tenor.com/A-TvhEb_HE8AAAAC/kizumonogatari-anime.gif" width="600" />
 </div>
-
-<h1 style="font-family: 'Arial', sans-serif; color: #fff; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);" align="center"><b>Welcome Anon 🐦‍⬛</b></h1>
-
-<h4 style="color: #b0b0b0; font-family: 'Courier New', monospace;" align="center"><b>I am a Software Engineer and I use arch BTW</b></h4>
-
-<h4 style="color: #fff; font-family: 'Courier New', monospace;" align="center">
-  Checkout my amazing small website: <a href="https://anas1412.github.io/" style="color: #e2e2e2; text-decoration: none; font-weight: bold;">https://anas1412.github.io/</a>
-</h4>
-
-<h4 style="color: #fff; font-family: 'Courier New', monospace;" align="center"><b>
-  “Taking a new step, uttering a new word, is what people fear most.” <br> 
-  ― Fyodor Dostoevsky, Crime and Punishment</b>
-</h4>
-
-<p align="center">
-  <a href="https://www.facebook.com/anasb1412"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-  <a href="https://www.instagram.com/villainesthetic/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="https://tn.linkedin.com/in/anas-bassoumi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
 
 <br>
 
-<h2> Hobbies & Interests</h2>
+## Hey, I'm Anas 👋
 
-<img align="right" height="180px" alt="GIF" src="https://i.pinimg.com/originals/c8/cc/44/c8cc44d4a558a872b28b82cc738c3d39.gif" />
+Software Engineer from Tunisia. I build CLI/TUI tools in Go, run Arch Linux, and trade gold on the side.
 
-- 🥅 2026 Goals: $10,000 monthly reecurring revenue.
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: Send me a message on [Facebook](https://www.facebook.com/anasb1412/) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=anasbassoumi@gmail.com).
-- ⚡ Fun fact: I am a Part-time Software Engineer and Full-time Gold Trader.
+> *"Taking a new step, uttering a new word, is what people fear most."*
+> — Dostoevsky, Crime and Punishment
+
+---
+
+### 🖥️ Featured Project
+
+**[ytmgo](https://github.com/anas1412/ytmgo)** — Terminal YouTube Music Player written in Go
+
+Search YouTube, manage a queue, download MP3s, bookmark favorites, Discord Rich Presence — all from the keyboard inside your terminal. No browser, no Electron, no bloat.
+
+```bash
+curl -fsSL https://anas1412.github.io/ytmgo/install.sh | bash
+```
+
+---
+
+### About me
+
+- 🎯 **2026 Goal:** $10,000 monthly recurring revenue
+- 📈 **Part-time** Software Engineer, **full-time** Gold Trader
+- 🐧 I use Arch, btw
+- 💬 Ask me anything — happy to help
+
+---
+
+### Stack & Tools
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://tn.linkedin.com/in/anas-bassoumi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/villainesthetic/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/anasb1412)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anasbassoumi@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=githubpages&logoColor=white)](https://anas1412.github.io/)
