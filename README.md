@@ -31,9 +31,9 @@ Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, 
 
 End-to-end financial workflow automation. Reduced reporting time by ~30%. Built from real client requirements.
 
-**[ytmgo](https://github.com/anas1412/ytmgo)** — Terminal YouTube Music Player · [`anas1412.github.io/ytmgo`](https://anas1412.github.io/ytmgo/) · `Go` `TUI` `CLI`
+**[ytmgo](https://github.com/anas1412/ytmgo)** — YT Music Player from Terminal in GoLang · [`anas1412.github.io/ytmgo`](https://anas1412.github.io/ytmgo/) · `Go` `TUI` `CLI`
 
-Search YouTube, queue tracks, download MP3s, Discord Rich Presence — all from the terminal. Pure Go, no Electron, no bloat.
+Search music, queue tracks, download MP3s, Discord Rich Presence — all from the terminal. Pure Go, no Electron, no bloat.
 
 ```bash
 curl -fsSL https://anas1412.github.io/ytmgo/install.sh | bash
