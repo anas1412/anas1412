@@ -27,7 +27,7 @@ We design custom AI automation systems, AI agents, and intelligent workflows tha
 
 Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, offline-first with real-time sync. Used by 50+ users.
 
-**[OpenTack](https://github.com/anas1412/opentack)** — Local Dashboard for OpenCode Sessions · `React` `Bun` `SQLite` `Electrobun` `OpenCode SDK`
+**[OpenTack](https://github.com/anas1412/opentack)** — Local Dashboard for OpenCode Sessions · [`anas1412.github.io/opentack`](https://anas1412.github.io/opentack/) · `React` `Bun` `SQLite` `Electrobun` `OpenCode SDK`
 
 Track opencode work across repos — tickets, sessions, costs, kanban. Desktop app, fully local, no cloud.
 
