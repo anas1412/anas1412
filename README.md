@@ -31,6 +31,10 @@ Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, 
 
 Track opencode work across repos — tickets, sessions, costs, kanban. Desktop app, fully local, no cloud.
 
+```bash
+curl -fsSL https://raw.githubusercontent.com/anas1412/opentack/main/opentack.sh | bash
+```
+
 **[FIDO](https://github.com/anas1412/Fido)** — Fee Management Platform for Accountants · [`fido.tn`](https://fido.tn) · `Laravel` `PHP` `Docker`
 
 End-to-end financial workflow automation. Reduced reporting time by ~30%. Built from real client requirements.
