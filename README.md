@@ -27,12 +27,12 @@ We design custom AI automation systems, AI agents, and intelligent workflows tha
 
 Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, offline-first with real-time sync. Used by 50+ users.
 
-**[OpenTack](https://github.com/anas1412/opentack)** — Local Dashboard for OpenCode Sessions · [`anas1412.github.io/opentack`](https://anas1412.github.io/opentack/) · `React` `Bun` `SQLite` `Electrobun` `OpenCode SDK`
+**[Pinboard](https://github.com/anas1412/opencode-pinboard)** — AI Coding Agent · Tickets · Git Worktrees · PRs · `React` `Bun` `SQLite` `Electrobun` `OpenCode SDK`
 
-Track opencode work across repos — tickets, sessions, costs, kanban. Desktop app, fully local, no cloud.
+Turn opencode sessions into tickets with full git automation — auto-generated branches (`feat/`, `fix/`, etc.), isolated git worktrees under `~/pinboard-worktrees/`, one-click commit + push + PR via GitHub CLI, and squash-merge on resolve. Kanban board, cost analytics, session history — all local, no cloud.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/anas1412/opentack/main/opentack.sh | bash
+curl -fsSL https://raw.githubusercontent.com/anas1412/opencode-pinboard/main/pinboard.sh | bash
 ```
 
 **[FIDO](https://github.com/anas1412/Fido)** — Fee Management Platform for Accountants · [`fido.tn`](https://fido.tn) · `Laravel` `PHP` `Docker`
