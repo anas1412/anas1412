@@ -27,9 +27,9 @@ We design custom AI automation systems, AI agents, and intelligent workflows tha
 
 Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, offline-first with real-time sync. Used by 50+ users.
 
-**[Pinboard](https://github.com/anas1412/opencode-pinboard)** — AI Coding Agent · Tickets · Git Worktrees · PRs · `React` `Bun` `SQLite` `Electrobun` `OpenCode SDK`
+**[Pinboard](https://github.com/anas1412/opencode-pinboard)** — Desktop App with OpenCode Built In · Tickets · Git Worktrees · PRs · `React` `Bun` `SQLite` `Electrobun` `OpenCode SDK`
 
-Turn opencode sessions into tickets with full git automation — auto-generated branches (`feat/`, `fix/`, etc.), isolated git worktrees under `~/pinboard-worktrees/`, one-click commit + push + PR via GitHub CLI, and squash-merge on resolve. Kanban board, cost analytics, session history — all local, no cloud.
+Full desktop app with opencode integrated inside — AI coding agent, TUI, git worktrees, auto-branches (`feat/`, `fix/`, etc.), one-click commit + push + PR via GitHub CLI, and squash-merge on resolve. Kanban board, cost analytics, session history — all local, no cloud.
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/anas1412/opencode-pinboard/main/pinboard.sh | bash
