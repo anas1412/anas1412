@@ -27,7 +27,7 @@ We design custom AI automation systems, AI agents, and intelligent workflows tha
 
 Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, offline-first with real-time sync. Used by 50+ users.
 
-**[Cyberia Space Chat](https://github.com/anas1412/cyberia-space)** — Real-time Ephemeral Chat · `React Native` `Expo` `Convex` `TypeScript`
+**[Cyberia Space Chat](https://github.com/anas1412/cyberia-space)** — Real-time Ephemeral Chat · [`chat.cyberiaspace.app`](https://chat.cyberiaspace.app) · `React Native` `Expo` `Convex` `TypeScript`
 
 Rooms dissolve when you leave, DMs after 24h. Ephemeral messaging built on Convex real-time sync.
 
