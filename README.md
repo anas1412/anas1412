@@ -23,9 +23,13 @@ We design custom AI automation systems, AI agents, and intelligent workflows tha
 
 ### 🚀 Featured Projects
 
-**[Cyberia Space](https://github.com/anas1412/cyberia)** — AI-Agentic Unified Workspace · [`cyberiaspace.app`](https://cyberiaspace.app) · `React` `TypeScript` `Supabase` `AI`
+**[Cyberia Space](https://github.com/anas1412/cyberiaspace)** — AI-Agentic Unified Workspace · [`cyberiaspace.app`](https://cyberiaspace.app) · `React` `TypeScript` `Supabase` `AI`
 
 Canvas + kanban + calendar + directory in one workspace. Multi-agent workflows, offline-first with real-time sync. Used by 50+ users.
+
+**[Cyberia Space Chat](https://github.com/anas1412/cyberia-space)** — Real-time Ephemeral Chat · `React Native` `Expo` `Convex` `TypeScript`
+
+Rooms dissolve when you leave, DMs after 24h. Ephemeral messaging built on Convex real-time sync.
 
 **[Pinboard](https://github.com/anas1412/opencode-pinboard)** — Desktop App with OpenCode Built In · Tickets · Git Worktrees · PRs · `React` `Bun` `SQLite` `Electrobun` `OpenCode SDK`
 
