@@ -31,7 +31,7 @@ An AI automation agency. We build custom AI agents and workflows that take the b
 ### Dev Tools
 
 - **[ytmgo](https://github.com/anas1412/ytmgo)** · [site](https://anas1412.github.io/ytmgo/) - YouTube Music in your terminal. Search, queue, download MP3s, Discord Rich Presence. Pure Go.
-- **[Pinboard](https://github.com/anas1412/opencode-pinboard)** · [site](https://anas1412.github.io/opencode-pinboard/) - Desktop app with opencode built in. Tickets become git worktrees and branches, with one-click commit, push and PR. Local only.
+- **[Tackora](https://github.com/anas1412/tackora)** · [site](https://anas1412.github.io/tackora/) - Kanban board for your coding agents. Every ticket is a Claude Code or OpenCode session, tracked live. Linux and Windows.
 - **[fast-brave-debloater](https://github.com/anas1412/fast-brave-debloater)** - One script to strip bloat out of Brave and speed it up.
 - **[dotfiles](https://github.com/anas1412/dotfiles)** - Tokyo Night rice for CachyOS + KDE Plasma 6 on Wayland, managed with GNU Stow.
 
@@ -42,8 +42,8 @@ An AI automation agency. We build custom AI agents and workflows that take the b
 # ytmgo
 curl -fsSL https://anas1412.github.io/ytmgo/install.sh | bash
 
-# Pinboard
-curl -fsSL https://raw.githubusercontent.com/anas1412/opencode-pinboard/main/pinboard.sh | bash
+# Tackora: AppImage, .deb, .rpm, .exe, .msi
+# https://github.com/anas1412/tackora/releases/latest
 ```
 
 </details>
